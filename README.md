@@ -2,7 +2,7 @@
 - 👀 I’m interested in data and data analysis 
 - 🌱 I’m currently learning data analysis with Daheltechies
 - 💞️ I’m looking to collaborate with companies, group and individuals on any data analysis project 
-- 📫 How to reach me[] (https://www.linkedin.com/in/oluchukwu-success)
+- 📫 How to reach me[here] (https://www.linkedin.com/in/oluchukwu-success)
 - 😄 Pronouns: He
 - ⚡ Fun fact: ...
 
